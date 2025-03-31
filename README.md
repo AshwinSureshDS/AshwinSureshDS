@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Data Science Aspirant skilled in machine learning, data visualization, and IoT technologies. Proficient in developing predictive models, enhancing decision-making, and delivering actionable insights. Passionate about using advanced algorithms, statistical analysis, and scalable solutions to transform data into strategic assets for industries such as healthcare, automation, and technology.<br><br><br>🔭 Currently working on a Reddit based Chatbot, using python, API Handling, LangChain and more..<br>🌱 Currently learning basics of HTML/CSS through building a Parents-Teacher portal for a local school..
+💬 Data Science Aspirant skilled in machine learning, data visualization, and IoT technologies. Proficient in developing predictive models, enhancing decision-making, and delivering actionable insights. Passionate about using advanced algorithms, statistical analysis, and scalable solutions to transform data into strategic assets for industries such as healthcare, automation, and technology.<br><br><br><br>🌱 Currently learning basics of HTML/CSS through building a Parents-Teacher portal for a local school..
 
 
 
